@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Quiz_React/static/js/main.6f96f48a.js",
+    "static/media/trafficLight.jpg": "/Quiz_React/static/media/trafficLight.c47d4d09ce8aab6ef05c.jpg",
+    "index.html": "/Quiz_React/index.html",
+    "main.6f96f48a.js.map": "/Quiz_React/static/js/main.6f96f48a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6f96f48a.js"
+  ]
+}
